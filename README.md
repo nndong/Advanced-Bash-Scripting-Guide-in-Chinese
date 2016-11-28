@@ -18,7 +18,7 @@
 - 译者：杨春敏 黄毅
 - 译著版本：Revision 3.7, 23 Oct 2005
 - 最新 Revision 10 由 Linux Story 社区的 imcmy 同学发起并组织翻译
-- Linux Story 通告地址 ：http://www.linuxstory.org/asdvanced-bash-scripting-guide-in-chinese/ 
+- Linux Story 通告地址 ：http://www.linuxstory.org/asdvanced-bash-scripting-guide-in-chinese/
 
 ## 翻译作品
 翻译作品放在[GitBook](https://www.gitbook.com/book/imcmy/advanced-bash-scripting-guide-in-chinese/details)上，欢迎阅读！
@@ -84,8 +84,8 @@
 		- C.1 Sed[@wuqichao]
 		- C.2 Awk[@wuqichao]
 	- D\. Parsing and Managing Pathnames
-	- E\. Exit Codes With Special Meanings
-	- F\. A Detailed Introduction to I/O and I/O Redirection
+	- E\. 有特殊意义的退出码 [@nndong]
+	- F\. I/O和I/O重定向的详细介绍 [@nndong]
 	- G\. Command-Line Options
 		- G.1 Standard Command-Line Options
 		- G.2 Bash Command-Line Options
